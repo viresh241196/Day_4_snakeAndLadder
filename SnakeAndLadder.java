@@ -52,9 +52,9 @@ public class SnakeAndLadder {
             }
         }
         if(player1 ==100)
-            System.out.println("player1 won"+player1+" "+player2);
+            System.out.println("player1 won");
         else
-            System.out.println("player2 won"+player1+" "+player2);
+            System.out.println("player2 won");
     }
 }
 
