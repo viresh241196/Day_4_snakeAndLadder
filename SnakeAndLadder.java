@@ -29,7 +29,6 @@ public class SnakeAndLadder {
                         break;
                     default:
                         checker=2;
-
                 }
                 case 2:
                     switch (option) {
